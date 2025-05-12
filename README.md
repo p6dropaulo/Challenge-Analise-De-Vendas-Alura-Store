@@ -17,6 +17,17 @@ O projeto foi desenvolvido em Python no Google Colab, utilizando as seguintes bi
 
 ---
 
+## 📷 Exemplos de Gráficos
+
+### 📊 Faturamento por loja
+![FATURAMENTO](imgs/FATURAMENTO.png)
+
+### 🛍️ Vendas por categoria
+![CATEGORIA](imgs/CATEGORIA.png)
+
+### 🌟 Média de avaliação das lojas
+![AVALIACAO](imgs/AVALIACAO.png)
+
 ## 📦 Conjunto de Dados
 
 Os dados utilizados na análise foram disponibilizados em formato `.csv` como parte do *challenge* da Alura. Cada arquivo representa o histórico de vendas de uma das quatro lojas da Alura Store:
